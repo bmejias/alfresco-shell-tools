@@ -1,5 +1,5 @@
 *Note: This project was cloned from https://code.google.com/p/alfresco-shell-tools/
-originally written by Lothar Maerkle, who gently approved this move.*
+originally written by Lothar Maerkle, who kindly approved this move.*
 
 Alfresco offers a rich remote API using its WebScripts technology which is based
 on the REST paradigm. This projects provides a set of scripts that makes it more
